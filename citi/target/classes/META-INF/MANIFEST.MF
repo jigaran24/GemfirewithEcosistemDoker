@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: citi
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: antolin
+Implementation-Vendor-Id: com.citibanamex.bne
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/citi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

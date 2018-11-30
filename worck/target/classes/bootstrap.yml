@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: worck
+  config:
+    name: worck
+  cloud:
+    config:
+      uri: http://config:8888
+      fail-fast: true
+      password: ${CONFIG_SERVICE_PASSWORD}
+      username: user
+server:
+  port: 9191
